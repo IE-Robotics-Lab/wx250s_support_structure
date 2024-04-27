@@ -1,10 +1,11 @@
 # WX250_support_structure
-Solid Base & Modular Rest Position for Widow X 250 Trossenrobotics Robotic Arm
+Design a robust base and modular rest position for the Widow X 250 Trossenrobotics robotic arm to facilitate the creation of a visually striking Robot Garden. The primary goals are to ensure ease of handling and movement of the robot arm while maintaining security and enhancing visual impact.
 
 by [Gregorio Orlando](https://github.com/GRINGOLOCO7)
 
 ## Table of Contents
 - [Objective & Scope](#objective--scope)
+- [Key Objectives](#key-bjectives)
 - [Features](#features)
   - [Base](#base)
   - [Support Trees](#support-trees)
@@ -30,6 +31,14 @@ The goal is to design a **sturdy support system** for the [Widow X 250](https://
 - A **stable and modular rest position** for the robotic arm.
 - A **compact and durable base** that securely houses all electronics, cables, and a Raspberry Pi.
 - Flexibility to accommodate a **counterweight** of 1 or 2 lbs or a **screw gripper** to maintain the arm's stability during movement.
+
+## Key Objectives:
+
+- Robust Base: Develop a stable and durable base that securely houses the Widow X 250 Trossenrobotics robotic arm and its accompanying electronics.
+- Modular Rest Position: Create a modular rest position system that allows for easy adjustment and customization of the robot arm's resting configuration. This system should offer flexibility in arrangement to accommodate different spatial constraints and user preferences.
+- Ease of Handling: Ensure that the robot arm can be easily grabbed and moved with minimal effort, providing users with a seamless and intuitive experience.
+- Visual Impact: Enhance the visual appeal of the Robot Garden by designing the base and rest position components to be aesthetically pleasing and visually striking.
+<br>
 
 ## Features
 
