@@ -1,4 +1,4 @@
-# Robot-Garden
+# WX250_support_structure
 Solid Base & Modular Rest Position for Widow X 250 Trossenrobotics Robotic Arm
 
 by [Gregorio Orlando](https://github.com/GRINGOLOCO7)
