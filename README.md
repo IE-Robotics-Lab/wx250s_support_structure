@@ -69,7 +69,7 @@ Key Features:
 
 <div align="center">
   <div style="display: inline-block; margin-right: 20px;">
-    <img src="imagesvideos_for_readme\base_frontview.jpg" alt="Support Tree Front View" width="200" />
+    <img src="/images_and_videos/base_frontview.jpg" alt="Support Tree Front View" width="200" />
   </div>
   <div style="display: inline-block; margin-right: 20px;">
     <img src="imagesvideos_for_readme\base_lateralview.jpg" alt="Support Tree Side View" width="200" />
