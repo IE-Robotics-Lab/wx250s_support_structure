@@ -88,10 +88,10 @@ Upon measuring the dimensions of the Trossen "bones" of the robot arm, we've cra
 
 <div align="center">
   <div style="display: inline-block; margin-right: 20px;">
-    <img src="/imagesvideos_for_readme/support_tree_frontview.jpg" alt="Support Tree Front View" width="200" />
+    <img src="/images_and_videos/support_tree_frontview.jpg" alt="Support Tree Front View" width="200" />
   </div>
   <div style="display: inline-block;">
-    <img src="/imagesvideos_for_readme/support_tree_sideview.jpg" alt="Support Tree Side View" width="200" />
+    <img src="/images_and_videos/support_tree_sideview.jpg" alt="Support Tree Side View" width="200" />
   </div>
 </div>
 
@@ -121,10 +121,10 @@ Beyond its functional aspects, the robot garden serves as an educational platfor
 
 <div align="center">
   <div style="display: inline-block; margin-right: 20px;">
-    <img src="/imagesvideos_for_readme/robot_composition_final_outcome.jpg" alt="Support Tree Front View" width="200" />
+    <img src="/images_and_videos/robot_composition_final_outcome.jpg" alt="Support Tree Front View" width="200" />
   </div>
   <div style="display: inline-block;">
-    <img src="/imagesvideos_for_readme/robot_composition_final_outcome2.jpg" alt="Support Tree Side View" width="200" />
+    <img src="/images_and_videos/robot_composition_final_outcome2.jpg" alt="Support Tree Side View" width="200" />
   </div>
 </div>
 
@@ -132,7 +132,7 @@ Beyond its functional aspects, the robot garden serves as an educational platfor
 <div align="center">
   <div style="text-align:center;">
     <video width="640" height="360" controls style="margin:auto;">
-      <source src="/imagesvideos_for_readme/final_product_poc.mp4" type="video/mp4">
+      <source src="/images_and_videos/final_product_poc.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -142,7 +142,7 @@ Beyond its functional aspects, the robot garden serves as an educational platfor
 <div align="center">
   <div style="text-align:center;">
     <div style="display: inline-block;">
-      <img src="/imagesvideos_for_readme/robots_composition.jpg" alt="Third Image" width="300" />
+      <img src="/images_and_videos/robots_composition.jpg" alt="Third Image" width="300" />
     </div>
   </div>
 </div>
