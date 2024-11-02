@@ -129,6 +129,7 @@ Beyond its functional aspects, the robot garden serves as an educational platfor
 </div>
 
 
+[video](https://github.com/IE-Robotics-Lab/wx250s_support_structure/blob/main/images_and_videos/final_product_poc.mp4)
 <div align="center">
   <div style="text-align:center;">
     <video width="640" height="360" controls style="margin:auto;">
